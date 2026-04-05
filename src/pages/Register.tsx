@@ -33,10 +33,10 @@ export default function Register() {
     <div className="min-h-screen flex items-center justify-center bg-gray-50 px-4 py-8">
       <Card className="w-full max-w-md">
         <CardHeader className="text-center">
-          <div className="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mx-auto mb-4">
-            <span className="text-white font-bold text-2xl">J</span>
+          <div className="w-15 h-12 bg-blue-600 rounded-lg flex items-center justify-center mx-auto mb-4">
+            <span className="text-white font-bold text-2xl">DGT</span>
           </div>
-          <CardTitle className="text-2xl font-bold">Daftar JuraganKas</CardTitle>
+          <CardTitle className="text-2xl font-bold">Daftar DGT</CardTitle>
           <p className="text-gray-500 text-sm mt-2">Buat akun baru untuk bisnis Anda</p>
         </CardHeader>
         <CardContent>
