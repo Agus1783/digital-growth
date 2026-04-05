@@ -9,10 +9,10 @@ export default function Landing() {
       <header className="border-b border-gray-100">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xl">J</span>
+            <div className="w-11 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
+              <span className="text-white font-bold text-xl">DGT</span>
             </div>
-            <span className="text-xl font-bold text-gray-900">JuraganKas</span>
+            <span className="text-xl font-bold text-gray-900">Digital Growth Team</span>
           </div>
           <nav className="hidden md:flex gap-8">
             <a href="#fitur" className="text-sm font-medium text-gray-600 hover:text-gray-900">Fitur</a>
