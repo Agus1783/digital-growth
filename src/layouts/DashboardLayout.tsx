@@ -25,9 +25,9 @@ export default function DashboardLayout() {
   return (
     <div className="flex h-screen bg-gray-50">
       {/* Sidebar */}
-      <aside className="w-64 bg-white border-r border-gray-200 flex flex-col">
+      <aside className="w-64 bg-white border-r border-gray-300 flex flex-col">
         <div className="p-6">
-          <h1 className="text-2xl font-bold text-blue-600">JuraganKas</h1>
+          <h1 className="text-2xl font-bold text-blue-600">DGT</h1>
           <p className="text-sm text-gray-500 mt-1">Sistem Manajemen UMKM</p>
         </div>
         
